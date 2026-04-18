@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salma | بنت الميزان</title>
+    <style>
+        body {
+            background-color: #fff0f5;
+            font-family: Arial;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: #d63384;
+            font-size: 50px;
+        }
+        p {
+            color: #333;
+            font-size: 24px;
+        }
+        .قلب {
+            font-size: 40px;
+        }
+    </style>  
+, 
+</head>
+<body>
+    <h1>hey babe 👑</h1>
+    <p>I wanna say that I love you more than you think ❤️</p>
+    <p> and I will still whit you a lifetime 💻</p>
+    <p class="قلب">🧿💛</p>
+    <p>"you'r my safe place, my evrything"</p>
+</body>
+</html>
